@@ -1,2 +1,2 @@
-# DeerLoveBeer.github.io
+# DeerLoveBeer
 Blah-blah
